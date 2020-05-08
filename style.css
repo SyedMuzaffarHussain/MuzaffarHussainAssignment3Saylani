@@ -1,0 +1,1483 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    margin: 0;
+
+}
+header{
+    background-color: #316DC3; 
+    width: 97%;
+    height: 20px;
+    padding: 1px 0px 6px 40px ;
+}
+.new{
+    display: inline;
+    margin-right: 65px;
+    font-size: 13px ; 
+}
+nav td a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.dis{
+    border-color: #316DC3 ;
+    background-color: #316DC3;
+    margin-right: 32px;
+    margin-top: 5px;     
+}
+.para{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: white;
+}
+.change{
+    /* padding-top: -5px; */
+    /* margin-left: 6px;
+    margin-right: 6px;
+    margin-top: 6px; */
+    /* margin-bottom: -15px; */
+}
+.quite{
+    /* margin-left: 13px;
+    padding-top: 5px; */
+}
+.quite tr td:hover{
+    background-color: #316DD9;
+    opacity: 1;
+}
+
+
+
+.ds{
+    background-color: #F7F8FA;
+    height: 105px;
+}
+
+
+
+
+
+
+
+.margine img{
+    margin-top: 23px;
+}
+
+
+
+
+.cent1 ul{
+    list-style: none;
+    text-decoration: none;
+    
+}
+
+.cent1 ul li{
+    padding: 0px;
+    background-color: #316DC3;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    line-height:40px;
+    float: left;
+    font-size: 12px;
+    margin-top: 30px;
+    position: relative;
+    margin-left: 160px;
+   border-radius: 20px;
+      
+}
+.cent1 ul li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cent ul{
+    list-style: none;
+    text-decoration: none;
+}
+
+.cent ul li{
+    padding: 0px;
+    background-color: #F7F8FA;
+    width: 110px;
+    height: 40px;
+    text-align: center;
+    line-height:40px;
+    float: left;
+    font-size: 12px;
+    margin-top: 30px;
+    position: relative;
+    /* margin-left: 0px; */
+    z-index: 5;
+}
+.cent ul li a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    border-radius: 20px;
+    z-index: 5;
+}
+.cent ul li a:hover{
+    background-color: #316DC3 ;
+    color: white;
+    
+}
+.cent ul ul li {
+    padding: 0px;
+    background-color: white;
+    /* border: 1px solid black; */
+    width: 200px;
+    height: 35px;
+    text-align: center;
+    line-height:35px;
+    float: left;
+    font-size: 12px;
+    margin-top: 15px;
+    margin-left: -44px;
+}
+
+/* For setting margin buttom of introduction */
+.top {
+    margin-bottom: -15px;
+}
+.top1{
+    margin-bottom: -15px;
+}
+/* ------------------------------------------------------------------------------------- */
+.cent ul ul{
+    display: none;
+    position: absolute;
+}
+.cent ul li:hover>ul{
+    display: block;
+}
+.cent ul li span img{
+    margin-left: 8px;
+}
+
+/* ----------------------------------------------------------------------------------- */
+
+.cent ul ul li a{
+   border-radius: 0px;
+}
+
+/* ------------------------------------------------------------------------------------ */
+
+
+
+
+
+
+
+
+
+.cent2 ul{
+    list-style: none;
+    text-decoration: none;
+}
+
+.cent2 ul li{
+    padding: 0px;
+    background-color: #F7F8FA;
+    width: 125px;
+    height: 40px;
+    text-align: center;
+    line-height:40px;
+    float: left;
+    font-size: 12px;
+    margin-top: 30px;
+    position: relative;
+    /* margin-left: 0px; */
+    z-index: 5;
+}
+.cent2 ul li a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    border-radius: 20px;
+    z-index: 5;
+}
+.cent2 ul li a:hover{
+    background-color: #316DC3 ;
+    color: white;
+    
+}
+.cent2 ul ul li {
+    padding: 0px;
+    background-color: white;
+    width: 250px;
+    height: 35px;
+    text-align: center;
+    line-height:35px;
+    float: left;
+    font-size: 12px;
+    margin-top: 15px;
+    margin-left: -45px;
+}
+
+ /* For setting margin buttom of Education and So on */
+
+
+.top2{
+    margin-bottom: -15px;
+}
+.top3{
+    margin-bottom: -15px;
+}
+.top4{
+    margin-bottom: -15px;
+}
+.top5{
+    margin-bottom: -15px;
+}
+.top6{
+    margin-bottom: -15px;
+}
+.top7{
+    margin-bottom: -15px;
+}
+.top8{
+    margin-bottom: -15px;
+}
+.top9{
+    margin-bottom: -15px;
+}
+.top10{
+    margin-bottom: -15px;
+}
+.top11{
+    margin-bottom: -15px;
+}
+.top12{
+    margin-bottom: -15px;
+}
+.top13{
+    margin-bottom: -15px;
+}
+.top14{
+    margin-bottom: -15px;
+}
+.top15{
+    margin-bottom: -15px;
+}
+.top16{
+    margin-bottom: -15px;
+}
+.top17{
+    margin-bottom: -15px;
+}
+.top18{
+    margin-bottom: -15px;
+}
+.top19{
+    margin-bottom: -15px;
+}
+.top20{
+    margin-bottom: -15px;
+}
+.top21{
+    margin-bottom: -15px;
+}
+.top22{
+    margin-bottom: -15px;
+}
+.top23{
+    margin-bottom: -15px;
+}
+
+
+/* -------------------------------------------------------------------------------------- */
+
+
+
+.cent2 ul ul{
+    display: none;
+    position: absolute;
+}
+.cent2 ul li:hover>ul{
+    display: block;
+}
+.lf{
+    margin-left: 255px;
+    margin-top: -50px;
+}
+.lf1{
+    margin-left: 255px;
+    margin-top: -46px;
+}
+.lf2{
+    margin-left: 255px;
+    margin-top: -46px;
+}
+.lf3{
+    margin-left: 255px;
+    margin-top: -50px;
+}
+.lf5{
+    margin-left: 255px;
+    margin-top: -50px;
+}
+.lf3 li a{
+    text-align: left;
+    margin-left: 4px;
+}
+/*--------------------------------------------------------------------------------- */
+
+
+.cent2 ul li span img{
+    margin-left: 8px;
+}
+
+
+/* ---------------------------------------------------------------------------------*/
+
+.cent2 ul ul li a{
+    border-radius: 0px;
+ }
+/* ---------------------------------------------------------------------------------- */
+
+
+
+
+
+
+
+.cent3 ul{
+    list-style: none;
+    text-decoration: none;
+}
+
+.cent3 ul li{
+    padding: 0px;
+    background-color: #F7F8FA;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    line-height:40px;
+    float: left;
+    font-size: 12px;
+    margin-top: 30px;
+    position: relative;
+    /* margin-left: 0px; */
+    z-index: 5;
+}
+.cent3 ul li a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    border-radius: 20px;
+    z-index: 5;
+}
+.cent3 ul li a:hover{
+    background-color: #316DC3 ;
+    color: white;
+}
+.cent3 ul ul li {
+    padding: 0px;
+    background-color: white;
+    width: 200px;
+    height: 35px;
+    text-align: center;
+    line-height:35px;
+    float: left;
+    font-size: 12px;
+    margin-top: 15px;
+    margin-left: -40px;
+    
+}
+.cent3 ul ul{
+    display: none;
+    position: absolute;
+}
+.cent3 ul li:hover>ul{
+    display: block;
+}
+
+/* ------------------------------------------------------------------------------- */
+
+.cent3 ul li span img{
+    margin-left: 8px;
+}
+
+/* -------------------------------------------------------------------------------- */
+.cent3 ul ul li a{
+    border-radius: 0px;
+ }
+/* --------------------------------------------------------------------------------- */
+
+
+/* For setting margin buttom of Saylani University and So on */
+
+
+.top34{
+    margin-bottom: -15px;
+}
+
+
+/* ---------------------------------------------------------------------------------- */
+
+
+.cent4 ul{
+    list-style: none;
+    text-decoration: none;
+}
+
+.cent4 ul li{
+    padding: 0px;
+    background-color: #F7F8FA;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    line-height:40px;
+    float: left;
+    font-size: 12px;
+    margin-top: 28px;
+    position: relative;
+    z-index: 5;
+}
+.cent4 ul li a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    border-radius: 20px;
+    z-index: 5;
+}
+.cent4 ul li a:hover{
+    background-color: #316DC3 ;
+    color: white;
+}
+
+
+
+
+
+
+
+
+.cent5 ul{
+    list-style: none;
+    text-decoration: none;
+}
+
+.cent5 ul li{
+    padding: 0px;
+    background-color: #F7F8FA;
+    /* border: 1px solid black; */
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    line-height:40px;
+    float: left;
+    font-size: 12px;
+    margin-top: 28px;
+    position: relative;
+    /* margin-left: 460px; */
+    z-index: 5;
+}
+.cent5 ul li a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    border-radius: 20px;
+    z-index: 5;
+}
+.cent5 ul li a:hover{
+    background-color: #316DC3 ;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+.cent6 ul{
+    list-style: none;
+    text-decoration: none;
+}
+
+.cent6 ul li{
+    padding: 0px;
+    background-color:#F7F8FA ;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    line-height:40px;
+    float: left;
+    font-size: 12px;
+    margin-top: 28px;
+    position: relative;
+    /* margin-left: 0px; */
+    z-index: 5;
+}
+.cent6 ul li a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    border-radius: 20px;
+    z-index: 5;
+}
+.cent6 ul li a:hover{
+    background-color: #316DC3 ;
+    color: white;
+}
+.cent6 ul ul li {
+    padding: 0px;
+    background-color: white;
+    width: 200px;
+    height: 35px;
+    text-align: center;
+    line-height:35px;
+    float: left;
+    font-size: 12px;
+    margin-top: 15px;
+    margin-left: -145px;
+    
+}
+.cent6 ul ul{
+    display: none;
+    position: absolute;
+}
+.cent6 ul li:hover>ul{
+    display: block;
+}
+.lf4{
+    margin-left: 305px ;
+    margin-top: -50px ;
+}
+
+
+/* For setting margin buttom of Bank Details and So on */
+
+.top24{
+    margin-bottom: -15px;
+}
+.top25{
+    margin-bottom: -15px;
+}
+.top26{
+    margin-bottom: -15px;
+}
+.top27{
+    margin-bottom: -15px;
+}
+.top28{
+    margin-bottom: -15px;
+}
+.top29{
+    margin-bottom: -15px;
+}
+.top30{
+    margin-bottom: -15px;
+}
+.top31{
+    margin-bottom: -15px;
+}
+.top32{
+    margin-bottom: -15px;
+}
+.top33{
+    margin-bottom: -15px;
+}
+
+
+
+/* -------------------------------------------------------------------------------- */
+
+.cent6 ul li span img{
+    margin-left: 8px;
+}
+
+/* ---------------------------------------------------------------------------------- */
+
+.cent6 ul ul li a{
+    border-radius: 0px;
+ }
+
+/* ---------------------------------------------------------------------------------- */
+
+/* Coding For Image Slider in HTML and CSS */
+#outerbox{
+    /* width: 1265px; */
+    width: 1274px;
+    overflow: hidden;
+    
+}
+#sliderbox{
+    position: relative;
+    width: 8920px;
+    animation-name: Muzaffar;
+    animation-duration: 35s;
+    animation-iteration-count: infinite;
+
+}
+#sliderbox img{
+ 
+    float: left;
+}
+
+@keyframes Muzaffar{
+
+    0%
+    {
+       left: 0px;
+    }
+    11.4%{
+        left: 0px;
+    }
+    14.2%{
+        left: -1274.2857142857px;
+    }
+    25.7%{
+        left: -1274.2857142857px;
+    }
+    28.5%{
+        left: -2548.5714285714px;
+    }
+    40%{
+        left: -2548.5714285714px;
+    }
+    42.8%{
+        left: -3822.8571428571px;
+    }
+   54.2%{
+       left: -3822.8571428571px;
+   }
+   57.1%{
+       left: -5097.1428571428px;
+   }
+   68.5%{
+       left: -5097.1428571428px;
+   }
+   71.4%{
+       left: -6371.4285714285px;
+   }
+   82.8%{
+       left: -6371.4285714285px;
+   }
+   85.7%{
+       left: -7645.7142857142px;
+   }
+   97.14%{
+       left: -7645.7142857142px;
+   }
+   100%{
+       /* left: -8920px; */
+       left: 0px;
+   }
+}
+
+/* --------------------------------------------------------------------------------------- */
+
+
+ /* Coding For Marquee from over here-----------------------------------------------------------  */
+
+.back{
+    background-color: #316DC3;
+    height: 25px;
+    margin-left: 45px;
+    margin-right: 45px;
+    line-height: 25px;
+}
+
+
+/* ------------------------------------------------------------------------------------------------------- */
+
+
+/* Coding of Introduction Paragraph */
+
+.intro{
+    background-color: #F7F8FA;
+    width: 1285x;
+    height: 700px;
+    text-align: center;
+    margin-top: 12px;
+}
+.int{
+    padding-top: 38px;
+    font-size: large;
+   
+}
+.int img{
+    margin-top: -10px;
+}
+.just{
+    text-align: justify;
+    line-height: 26px;
+    margin-left: 145px;
+    margin-right: 145px;
+    font-size: 16px;
+}
+.just1{
+    margin-top: 32px;
+    text-align: justify;
+    line-height: 24px;
+    margin-left: 145px;
+    margin-right: 145px;
+    font-size: 16px;
+}
+.just2{
+    margin-top: 32px;
+    text-align: justify;
+    line-height: 23px;
+    margin-left: 145px;
+    margin-right: 145px;
+    font-size: 16px;
+}
+.just3{
+    margin-top: 32px;
+    text-align: justify;
+    line-height: 23px;
+    margin-left: 145px;
+    margin-right: 145px;
+    font-size: 16px;
+}
+
+/* --------------------------------------------------------------------------------------------------------- */
+
+
+/* Coding for rolling Number in HTML and CSS  */
+
+.wth{
+    width: 1265px;
+    height: 300px;
+    background-color: #2655E8;
+    display: block-inline;
+}
+.w2{
+    margin-top: 80px;
+    margin-left: 160px;
+}
+.chane{
+    font-size: 50px;
+    margin-left: 110px;
+    margin-top: 5px;
+    color: white;
+}
+.chane1{
+    margin-left: 60px;
+    margin-top: -20px;
+}
+/* -------------------------------------------------------------------------------------------------------- */
+
+
+.w3{
+    margin-top: -700px;
+    margin-left: 500px;
+    margin-bottom: 135px;
+}
+.chane2{
+    font-size: 50px;
+    margin-left: 460px;
+    margin-top: -130px;
+    color: white;
+}
+.chane3{
+    margin-left: 400px;
+    margin-top: -19px;
+    
+}
+/* ---------------------------------------------------------------------------------------------------------- */
+
+
+.ww{
+    margin-top: -700px;
+    margin-left: 780px;
+    margin-bottom: 135px;
+}
+.chaneA{
+    font-size: 50px;
+    margin-left: 733px;
+    margin-top: -130px;
+    color: white;
+}
+.chaneQ{
+    margin-left: 720px;
+    margin-top: -19px;
+    
+}
+
+/* ----------------------------------------------------------------------------------------------------*/
+
+
+.ws{
+    margin-top: -700px;
+    margin-left: 1035px;
+    margin-bottom: 135px;
+}
+.chaneB{
+    font-size: 50px;
+    margin-left: 980px;
+    margin-top: -130px;
+    color: white;
+}
+.chanep{
+    margin-left: 980px;
+    margin-top: -19px;
+    
+}
+
+/* -------------------------------------------------------------------------------------------------- */
+
+/* Coding for boxes */
+.yel{
+    background-color: #F7F8FA;
+    width: 1265px;
+    height: 670px;
+}
+.cont{
+    margin-top: -22px;
+}
+.dur{
+   margin-bottom: 20px;
+   padding-top: 55px;
+}
+
+
+
+
+
+.box{
+    background-color:#FFFFFF;
+    /* border-color: white; */
+    /* border: 5px solid black; */
+    width: 350px;
+    height: 190px;
+    margin-left: 80px;
+    margin-top: 40px;
+    box-shadow: 3px 3px 10px 0px gray;
+    transition-property: width,height;
+    transition-duration: 0s;
+    transition-timing-function: linear;   
+    
+}
+.hov :hover{
+    width: 400px;
+    height: 220px;
+    margin-left: 40px ;
+    margin-top: 40px;
+}
+
+.align{
+    margin-top: -10px;
+}
+.cell{
+    margin-left: 135px;
+    margin-top: 25px;
+}
+.t{
+    margin-top: 12px;
+    font: 10px;    
+}
+
+
+
+
+
+
+
+.box1{
+    background-color:#FFFFFF;
+    /* border-color: white; */
+    /* border: 5px solid black; */
+    width: 350px;
+    height: 190px;
+    margin-left: 470px;
+    margin-top: -190px;
+    box-shadow: 3px 3px 10px 0px gray;
+    transition-property: width,height;
+    transition-duration: 0s;
+    transition-timing-function: linear;   
+    
+}
+.hov1 :hover{
+    width: 400px;
+    height: 220px;
+    margin-left: 400px ;
+    margin-top: -200px;
+    z-index: 5;
+}
+.cell1{
+    margin-left: 135px;
+    margin-top: 25px;
+}
+.t1{
+    margin-top: 12px;
+    font: 10px; 
+}
+
+
+
+
+
+
+.box2{
+    background-color:#FFFFFF;
+    /* border-color: white; */
+    /* border: 5px solid black; */
+    width: 350px;
+    height: 190px;
+    margin-left: 860px;
+    margin-top: -190px;
+    box-shadow: 3px 3px 10px 0px gray;
+    transition-property: width,height;
+    transition-duration: 0s;
+    transition-timing-function: linear;   
+}
+.hov2 :hover{
+    width: 400px;
+    height: 220px;
+    margin-left: 800px ;
+    margin-top: -200px;
+}
+.cell2{
+    margin-left: 135px;
+    margin-top: 25px;
+}
+.t2{
+    margin-top: 12px;
+    font: 10px; 
+}
+
+
+
+
+
+
+
+.box3{
+    background-color:#FFFFFF;
+    /* border-color: white; */
+    /* border: 5px solid black; */
+    width: 350px;
+    height: 190px;
+    margin-left: 80px;
+    margin-top: 40px;
+    box-shadow: 3px 3px 10px 0px gray;
+    transition-property: width,height;
+    transition-duration: 0s;
+    transition-timing-function: linear;   
+}
+.hov3 :hover{
+    width: 400px;
+    height: 220px;
+    margin-left: 50px ;
+    margin-top: 50px;
+}
+.cell3{
+    margin-left: 135px;
+    margin-top: 25px;
+}
+.t3{
+    margin-top: 12px;
+    font: 10px; 
+}
+
+
+
+
+
+
+
+
+.box4{
+    background-color:#FFFFFF;
+    /* border-color: white; */
+    /* border: 5px solid black; */
+    width: 350px;
+    height: 190px;
+    margin-left: 470px;
+    margin-top: -190px;
+    box-shadow: 3px 3px 10px 0px gray;
+    transition-property: width,height;
+    transition-duration: 0s;
+    transition-timing-function: linear;   
+}
+.hov4 :hover{
+    width: 400px;
+    height: 220px;
+    margin-left: 400px ;
+    margin-top: -200px;
+}
+.cell4{
+    margin-left: 135px;
+    margin-top: 25px;
+}
+.t4{
+    margin-top: 12px;
+    font: 10px; 
+}
+
+
+
+
+
+
+
+.box5{
+    background-color:#FFFFFF;
+    /* border-color: white; */
+    /* border: 5px solid black; */
+    width: 350px;
+    height: 190px;
+    margin-left: 860px;
+    margin-top: -190px;
+    box-shadow: 3px 3px 10px 0px gray;
+    transition-property: width,height;
+    transition-duration: 0s;
+    transition-timing-function: linear;   
+}
+.hov5 :hover{
+    width: 400px;
+    height: 220px;
+    margin-left: 800px ;
+    margin-top: -200px;
+}
+.cell5{
+    margin-left: 135px;
+    margin-top: 25px;
+}
+.t5{
+    margin-top: 12px;
+    font: 10px; 
+}
+
+
+/* --------------------------------------------------------------------------------------------------- */
+
+/* Coding for Mission and Upcoming Project */
+
+.term{
+    background-color: #FFFFFF;
+    width: 1265px;
+    height: 420px;
+}
+.term1{
+    margin-top: -25px;
+    
+}
+.term2{
+   margin-bottom: 20px;
+   padding-top: 55px;
+   margin-left: 70px;
+   font-size: 26px;
+   color: #316DC3;
+
+}
+.line{
+    content: "";
+    width: 70px;
+    margin-left: 70px;
+    left: 4px;
+    height: 2px;
+    background-color: #427900;
+    z-index: 5;
+    margin-top: -10px;
+}
+
+
+.term3{
+    margin-left: 850px;
+    margin-top: -242px;
+    font-size: 26px;
+    color: #316DC3;    
+ }
+
+
+
+ .line2{
+    content: "";
+    width: 60px;
+    margin-left: 850px;
+    left: 4px;
+    height: 3px;
+    background-color: #427900;
+    z-index: 5;
+    margin-top: 10px;
+}
+
+
+
+ .line1{
+    content: "";
+    width: 360px;
+    margin-left: 850px;
+    left: 4px;
+    height: 1px;
+    background-color: silver;
+    z-index: 5;
+    margin-top: -1px;
+}
+
+
+
+
+
+.boxb{
+    
+    border: 1px solid silver;   
+    width: 350px;
+    height: 70px;
+    margin-left: 70px;
+    margin-top: 27px;
+    background-color: #F7F8FA;
+}
+.hepa{
+    margin-left: 18px;
+    margin-top: 15px;
+}
+.hepa1{
+    margin-left: 70px;
+    margin-top: -28px;
+    font-size: 18px;
+    color: #316DC3;
+}
+
+
+
+.boxc{
+    
+    border: 1px solid silver;   
+    width: 350px;
+    height: 70px;
+    margin-left: 450px;
+    margin-top: -72px;
+    background-color: #F7F8FA;
+}
+.hepat{
+    margin-left: 18px;
+    margin-top: 15px;
+}
+.hepa2{
+    margin-left: 70px;
+    margin-top: -28px;
+    font-size: 18px;
+    color: #316DC3;
+}
+
+
+
+
+.boxd{
+    
+    border: 1px solid silver;   
+    width: 350px;
+    height: 70px;
+    margin-left: 70px;
+    margin-top: 25px;
+    background-color: #F7F8FA;
+}
+.hepat1{
+    margin-left: 18px;
+    margin-top: 15px;
+}
+.hepa3{
+    margin-left: 70px;
+    margin-top: -28px;
+    font-size: 18px;
+    color: #316DC3;
+}
+
+
+
+
+.boxe{
+    
+    border: 1px solid silver;   
+    width: 350px;
+    height: 70px;
+    margin-left: 450px;
+    margin-top: -70px;
+    background-color: #F7F8FA;
+}
+.hepat2{
+    margin-left: 18px;
+    margin-top: 15px;
+}
+.hepa4{
+    margin-left: 70px;
+    margin-top: -28px;
+    font-size: 18px;
+    color: #316DC3;
+}
+
+
+
+.marq{
+    background-color: #FFFFFF;
+    width: 277px;
+    height: 220px;
+    margin-left: 850px;
+    margin-top: 5px;
+}
+.marq1{
+    padding-left: 0px;
+    width: 280px;
+}
+
+/* --------------------------------------------------------------------------------------------------- */
+
+/* Coding for Image Gallery----------------------------------------------------------------------------- */
+
+.Gallery{
+    background-color: #FFFFFF;
+    width: 1265px;
+    height: 450px;
+
+}
+.Gallery2{
+    font-size: 35px;
+}
+.Gallery3{
+    margin-top: -10px;
+}
+.line3{
+    content: "";
+    width: 50px;
+    margin-left: 555px;
+    left: 4px;
+    height: 2px;
+    background-color: #427900;
+    z-index: 5;
+    margin-top: -15px;
+}
+.line4{
+    content: "";
+    width: 50px;
+    margin-left: 660px;
+    left: 4px;
+    height: 2px;
+    background-color: #427900;
+    z-index: 5;
+    margin-top: -2px;
+}
+.imagey{
+    margin-left: 65px;
+    margin-top: 50px;
+}
+.Gallery4 :hover{
+   /* background-color: black; */
+  width: 260px;
+  height: 200px;
+  z-index: 5;
+  opacity: 0.5;
+}
+.imagey1{
+    margin-left: -2px;
+    margin-top: 50px;
+}
+.imagey2{
+    margin-left: -2px;
+    margin-top: 50px;
+}
+.imagey4{
+    margin-left: -2px;
+    margin-top: 50px;
+
+}
+
+.imagey3{
+    margin-left: -2px;
+    margin-top: 50px;
+}
+
+/* Coding For Footer in Html----------------------------------------------------------------------------------------- */
+
+.footer{
+    background-color: #25272E;
+    width: 1265px;
+    height: 390px;
+}
+.footer1{
+    margin-top: -50px;
+}
+.footer2{
+    padding-top: 73px;
+    padding-left: 460px;
+    font-size: 21px;
+    color: #FFFFFF;
+}
+.footer3{
+    margin-top: -40px;
+    padding-left: 850px;
+    font-size: 21px;
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+.linet{
+    content: "";
+    width: 60px;
+    margin-left: 460px;
+    left: 4px;
+    height: 4px;
+    background-color: #427900;
+    z-index: 5;
+    margin-top: -12px;
+}
+
+
+
+ .liner{
+    content: "";
+    width: 360px;
+    margin-left: 460px;
+    left: 4px;
+    height: 1px;
+    background-color: silver;
+    z-index: 5;
+    margin-top: -1px;
+}
+.pict{
+    margin-left: 834px;
+    margin-top: -10px;
+}
+.head{
+    margin-left: 60px;
+    line-height: 25px;
+    margin-top: -80px;
+}
+.head1{
+    color: #98989A;
+}
+
+
+
+
+
+.logo1{
+    margin-top: -30px;
+    margin-left: 3px;
+}
+.Numby{
+    margin-top: -45px;
+    margin-left: 30px;
+    color: #98989A;
+}
+
+
+
+
+.logo2{
+    margin-top: -40px;
+    margin-left: 185px;
+}
+.Numby1{
+    margin-top: -45px;
+    margin-left: 210px;
+    color: #98989A;
+}
+
+
+
+
+.logo3{
+    margin-top: -9px;
+    margin-left: 3px;
+}
+.Numby2{
+    margin-top: -45px;
+    margin-left: 30px;
+    color: #98989A;
+}
+
+
+
+
+
+.logo4{
+    margin-top: -9px;
+    margin-left: 3px;
+}
+.Numby3{
+    margin-top: -45px;
+    margin-left: 30px;
+    color: #98989A;
+}
+
+
+
+
+
+
+.logo5{
+    margin-top: -9px;
+    margin-left: 3px;
+}
+.Numby4{
+    margin-top: -45px;
+    margin-left: 30px;
+    color: #98989A;
+}
+
+
+
+
+
+
+.logo6{
+    margin-top: -9px;
+    margin-left: 3px;
+}
+.Numby5{
+    margin-top: -45px;
+    margin-left: 30px;
+    color: #98989A;
+}
+
+
+
+
+.quitey tr td:hover{
+    background-color: #316DC3;
+    opacity: 1;
+    border-radius: 70px;
+}
+
+/* --------------------------------------------------------------------------------------------------------- */
+
+.last{
+    background-color: #316DD9;
+    width: 1265px;
+    height: 70px;
+    top: 3568px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    position: absolute;
+}
+.last2{
+    margin-left: 60px;
+    padding-top: 10px;
+    color: #FFFFFF;
+}
+
+/* --------------------------------------------------------------------------------------------------- */
